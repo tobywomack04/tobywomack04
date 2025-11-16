@@ -39,7 +39,7 @@
 
 ---
 
-<p align="center"><img alt="tobywomack04's Github General Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark" /></p>
+<p align="center"><img alt="tobywomack04's Github General Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark&cache_seconds=1800" /></p>
 <p align="center"><img alt="tobywomack04's Github Language Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api/top-langs/?username=tobywomack04&hide_border=true&layout=pie&theme=dark" /></p>
 
 <!-- [website]: https://tobywomack.com
