@@ -21,6 +21,6 @@
 
 ---
 
-<img align="left" alt="tobywomack04's Github Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark" />
+<img align="left" alt="tobywomack04's Github Stats" src="github-readme-stats-git-master-toby-womacks-projects.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark" />
 
 [website]: https://tobywomack.com
