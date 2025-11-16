@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Toby - aka tobywomack04 👋</h1>
 
 <div align="center">
-<a href="https://tobywomack.com" target="blank"><img src="https://img.shields.io/website?label=tobywomack.com&style=for-the-badge&url=https://tobywomack.com" alt="Website button"/></a>
+<a href="https://tobywomack.com" target="_blank"><img src="https://img.shields.io/website?label=tobywomack.com&style=for-the-badge&url=https://tobywomack.com" alt="Website button"/></a>
   <br />
-<a href="https://github.com/tobywomack04" target="blank"><img src="https://komarev.com/ghpvc/?username=tobywomack04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter"/></a>
+<a href="https://github.com/tobywomack04" target="_blank"><img src="https://komarev.com/ghpvc/?username=tobywomack04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter"/></a>
 </div>
 
 <br />
