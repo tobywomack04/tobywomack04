@@ -17,6 +17,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
+
+---
+
 <img align="left" alt="tobywomack04's Github Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark" />
 
 [website]: https://tobywomack.com
