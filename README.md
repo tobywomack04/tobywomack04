@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Toby - aka tobywomack04 👋</h1>
+<h1 align="center">Hi there, I'm Toby 👋</h1>
 
 <div align="center">
 <a href="https://tobywomack.com"><img src="https://img.shields.io/website?label=tobywomack.com&style=for-the-badge&url=https://tobywomack.com" alt="Website button"/></a>
@@ -8,7 +8,7 @@
 
 <br />
 
-<h3 align="center">An English 3rd year college student studying Software Development with Games Programming in Ireland</h3>
+<h3 align="center">A 3rd year college student studying Software Development with Games Programming in Ireland</h3>
 
 ### ⚙ Languages and Tools:
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📅 Hobbies
+### 🗺 Hobbies
 - Motorbike riding
 - Playing videogames
 - Go-kart racing
@@ -40,7 +40,7 @@
 ---
 
 <p align="center"><img alt="tobywomack04's Github General Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api?username=tobywomack04&show_icons=true&hide_border=true&include_all_commits=true&number_format=short&theme=dark" /></p>
-<p align="center"><img alt="tobywomack04's Github Language Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api/top-langs/?username=tobywomack04&hide_border=true&layout=pie&theme=dark" /></p>
+<p align="center"><img alt="tobywomack04's Github Language Stats" src="https://github-readme-stats-theta-six-71.vercel.app/api/top-langs/?username=tobywomack04&hide_border=true&layout=pie&theme=dark&langs_count=10&card_width=325" /></p>
 
 <!-- [website]: https://tobywomack.com
 [Github]: https://github.com/tobywomack04 -->
